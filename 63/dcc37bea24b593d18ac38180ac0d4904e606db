@@ -1,0 +1,19 @@
+integrations/transform-mcp.md
+  s_e8b375b4c95ae5::t_6d2b242f98faa7 28-30,68,89-91
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "63dcc37bea24b593d18ac38180ac0d4904e606db",
+  "prompts": {},
+  "sessions": {
+    "s_e8b375b4c95ae5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e949db8a-1ad2-4786-95e6-0a59728e0d24",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "David Dizon <dizon@unstructured.io>"
+    }
+  }
+}
